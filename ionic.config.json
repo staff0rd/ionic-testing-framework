@@ -1,0 +1,7 @@
+{
+  "name": "nwsapi-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
